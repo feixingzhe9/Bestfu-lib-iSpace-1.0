@@ -1,0 +1,11 @@
+..\output\groupdata.o: ..\Lib_code\SysLib\GroupData.c
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\GroupData.h
+..\output\groupdata.o: ..\Lib_code\App\UnitCfg.h
+..\output\groupdata.o: ..\Lib_code\App\BF_type.h
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\UserData.h
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\Group.h
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\TimeHandle.h
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\DlyAttrProcess.h
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\linkcommon.h
+..\output\groupdata.o: ..\Lib_code\SysLib\inc\EEPROM.h
